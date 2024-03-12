@@ -2,7 +2,9 @@
 
 
 
-Code borrow form https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
+Code for paper: PA-Net
+
+borrow form https://github.com/xyanchen/WiFi-CSI-Sensing-Benchmark
 
 
 
